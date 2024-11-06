@@ -11,6 +11,6 @@ let number = Number(prompt("Write a number: "));
 alert((a < number) && (number < b)); */
 
 //task3
-let num1 = prompt("Write first number: ")
-let num2 = prompt("Write second number: ")
-alert((num1 < 0 && num2 >= 0) || (num2 < 0 && num1 >= 0))
+let num1 = prompt("Write first number: ");
+let num2 = prompt("Write second number: ");
+alert((num1 < 0 && num2 >= 0) || (num2 < 0 && num1 >= 0));
